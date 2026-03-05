@@ -31,4 +31,5 @@ No source code is provided in this repository.
 ### Contact / Feedback
 If you have suggestions or find bugs – write to Issues or to kretski1@gmail.com / linkedin.com/in/dimitar-kretski-071118b6].
 
-License: MIT (for .exe distribution only – code is not public)
+License: MIT (for .exe distribution<img width="1897" height="1002" alt="lighshot_2026-03-05_14-01-59" src="https://github.com/user-attachments/assets/27001d4e-5515-48c0-aa70-5e2d04929523" />
+ only – code is not public)
