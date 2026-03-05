@@ -1,12 +1,34 @@
-Solar System Launch Optimizer v3.1
+# Solar Launch Optimizer
 
-GUI tool for Hohmann transfer windows from Earth to all major planets.
+**Desktop application for Windows** – calculates optimal launch windows for Hohmann transfer from Earth to:
+Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune
 
-**Features**
-- Planet selection: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune
-- Perturbations: Pioneer Anomaly, TCM Correction, Solar Pressure, Penalty Mode
-- Visualizations: orbits, timeline, ΔV bar chart
+**Key features:**
+- Target planet selection
+- 4 perturbation modes (incl. TCM, Solar Pressure, Pioneer Anomaly, Penalty for bad windows)
+- Orbit visualization, window timeline and ΔV comparison
 - Export results to CSV
 
-**Download Windows version (.exe)**
-→ Go to [Releases](https://github.com/your-name/solar-launch-optimizer/releases) and download the latest .exe
+**Important:**
+This is an **educational tool** with approximations (average orbital elements).
+It is not intended for real space mission planning – professional software such as GMAT, STK or SPICE kernels are used for that.
+
+### Download and launch
+
+→ Go to **[Releases](https://github.com/YOUR-USERNAME/repo-name/releases)** and download the latest **SolarLaunchOptimizer.exe**
+(no installation required – just double-click)
+
+### How it works
+1. Select a planet
+2. Select a perturbation mode (or leave it as default)
+3. Set a start date and search period
+4. Press "Calculate Windows"
+5. View graphs and export results
+
+**Note:** The formulas and algorithms are original and protected by the author.
+No source code is provided in this repository.
+
+### Contact / Feedback
+If you have suggestions or find bugs – write to Issues or to kretski1@gmail.com / linkedin.com/in/dimitar-kretski-071118b6].
+
+License: MIT (for .exe distribution only – code is not public)
