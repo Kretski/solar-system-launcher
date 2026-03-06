@@ -7,7 +7,8 @@
 
 ---
 
-## 1. Solar Launch Optimizer *(The Navigator)*
+## 1. Solar Launch Optimizer *(The Navigator)*<img width="1897" height="1002" alt="lighshot_2026-03-05_14-01-59" src="https://github.com/user-attachments/assets/e010539c-ec8f-442e-bef3-c73f09096601" />
+
 
 Windows desktop application for calculating optimal Hohmann transfer windows
 from Earth to: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune.
@@ -119,4 +120,5 @@ Open for partnerships in **Aerospace AI**, **Edge Computing**, and **On-Orbit Le
 
 
 
+<img width="1897" height="1002" alt="lighshot_2026-03-05_14-01-59" src="https://github.com/user-attachments/assets/d93fc07a-626b-4808-9d82-139d17ea2bef" />
 
