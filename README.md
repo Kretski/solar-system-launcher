@@ -17,7 +17,20 @@ COMPONENTS:
 • Three feedback loops: N(t)↔AZURO↔Aether
 
 STATUS: Ready for hardware validation and publication.
+# 🚀 AETHER-NT v4.4
 
+<div align="center">
+
+| ![GitHub stars](https://img.shields.io/github/stars/Kretski/solar-system-launcher?style=flat-square&color=yellow) | ![GitHub forks](https://img.shields.io/github/forks/Kretski/solar-system-launcher?style=flat-square&color=blue) | ![GitHub watchers](https://img.shields.io/github/watchers/Kretski/solar-system-launcher?style=flat-square&color=green) |
+|---|---|---|
+
+**⭐ If you like this project, please star it on GitHub! ⭐**
+
+[![Star on GitHub](https://img.shields.io/badge/⭐-Star%20on%20GitHub-yellow?style=for-the-badge)](https://github.com/Kretski/solar-system-launcher/stargazers)
+
+---
+
+</div>
  AETHER-NT: An Adaptive Error Detection and Record Reduction Pipeline for Onboard AI with Limited Emission
 
 **DOI:** 10.5281/zenodo.18898270 (original record)
