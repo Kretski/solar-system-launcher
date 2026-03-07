@@ -1,5 +1,5 @@
 # Aether Space-Grade Optimizer
-
+⭐ If you find this useful, please star the repo!
 **Thermal & Radiation-Aware ML Optimizer for Space Deployment**
 
 > Runtime training optimizer for AI systems operating under degraded space conditions —
