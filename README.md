@@ -1,6 +1,22 @@
 Priority document published on Zenodo.
 DOI: 10.5281/zenodo.18898270
+AETHER-NT v4.4: Aerospace-Grade Integrated Pipeline
 
+KEY RESULTS:
+• Detection Rate: 100% across all scenarios
+• PMD: 0%
+• SEU Robustness: 0 crashes after 6 NaN/Inf/bit-flip injections
+• Mode Thrashing: 0 transitions (fully stabilized)
+• Noise Robustness: FPR < 40% at σ=0.30
+• Temperature Drift: Adaptive thresholds track rising noise floor
+
+COMPONENTS:
+• AZURO Compass: environment model with 3 feedback loops
+• N(t) v6 Detector: N=k·(G/G₀)·(t/τ)² with persistence filter
+• Aether Optimizer: stabilized with hysteresis and dwell time
+• Three feedback loops: N(t)↔AZURO↔Aether
+
+STATUS: Ready for hardware validation and publication.
 
  AETHER-NT: An Adaptive Error Detection and Record Reduction Pipeline for Onboard AI with Limited Emission
 
