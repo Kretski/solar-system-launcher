@@ -1,4 +1,7 @@
+Priority document published on Zenodo.
+DOI: 10.5281/zenodo.18898270
 
+AZURO Compass + N(t) Detector + AIDSP pipeline.
 # AIDSP — Autonomous Intelligent Deep-Space Probe
 ### *Adaptive AI pipeline for autonomous deep-space missions*
 
