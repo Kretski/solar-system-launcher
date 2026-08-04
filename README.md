@@ -35,7 +35,7 @@ STATUS: Ready for hardware validation and publication.
 
 **DOI:** 10.5281/zenodo.18898270 (original record)
 **Version:** v4.3 – March 2026
-**License:** CC-BY-4.0 (documentation and benchmarks); source code and algorithms – patent pending, available upon request for validation
+**License:** CC-BY-4.0 (documentation and benchmarks);
 **Authors:** Dimitar Kretski
 **Contact:** kretski1@gmail.com | LinkedIn: dimitar-kretski-071118b6
 
